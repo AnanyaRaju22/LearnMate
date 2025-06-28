@@ -9,6 +9,7 @@ export default function SchedulePlanner() {
   const [planTitle, setPlanTitle] = useState("");
   const [selectedPlan, setSelectedPlan] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [waitingForFeedback, setWaitingForFeedback] = useState(false);
   const [showModificationBox, setShowModificationBox] = useState(false);
   const [modificationText, setModificationText] = useState("");
