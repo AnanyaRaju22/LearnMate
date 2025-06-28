@@ -1,7 +1,7 @@
 # LearnMate
 # 📚 LearnMate AI
 
-**LearnMate AI** is an intelligent, all-in-one study assistant that adapts to your learning style, helps schedule study goals, explains topics in simple formats, and allows uploading PPT/PDF files to ask questions. Built with Next.js and Tailwind CSS, powered by Groq/OpenAI/Replicate APIs.
+**LearnMate AI** is an intelligent, all-in-one study assistant that adapts to your learning style, helps schedule study goals, explains topics in simple formats, and allows uploading PPT/PDF files to ask questions. Built with Next.js and Tailwind CSS, powered by Groq APIs.
 
 ## 🚀 Features
 
